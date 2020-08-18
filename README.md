@@ -17,3 +17,23 @@
 
 
 8-After runing those kernels you can run FINAL_BLEND.ipynb to get the finale_sub.csv 
+
+
+
+## [On the Leaderboard](https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge/leaderboard)
+
+Look for the team named : **Forecasters** <br>
+Rank : 12/501
+
+## Authors
+
+<div align='center'>
+
+| Name           |                     Zindi ID                     |                  Github ID               |
+|----------------|--------------------------------------------------|------------------------------------------|
+|Azer KSOURI     |[@plndz](https://zindi.africa/users/plndz)      |[@Az-Ks](https://github.com/Az-Ks)        |
+|Helmi Klai      |[@Klai](https://zindi.africa/users/Klai)                         |
+|Muhamed TUO     |[@Muhamed_Tuo](https://zindi.africa/users/Muhamed_Tuo)  |[@NazarioR9](https://github.com/NazarioR9)|
+|Saurabh Kumar   |[@Saurabh502](https://zindi.africa/users/Saurabh502)          |
+
+</div>
